@@ -72,4 +72,4 @@ npm start
 
 Open in browser :
 
-[Open in browser](http://localhost:3000)
+[Open in browser](https://jayakumar-arizone-commerce.netlify.app/)
