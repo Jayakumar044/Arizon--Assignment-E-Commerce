@@ -1,0 +1,6 @@
+{
+    "git.decorations.enabled": true,
+    "git.diagnosticsCommitHook.Enabled": false,
+    "terminal.integrated.shellIntegration.enabled": true,
+    "git.enabled": false
+}
