@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import heroImage from '../assets/hero-image.jpg'; // Your background image
+import heroImage from '../assets/hero-image.jpg'; 
 
 const Hero = () => {
   return (
@@ -31,7 +31,6 @@ const Hero = () => {
             Discover our amazing collection of products that will make your life better.
           </p>
           
-          {/* CTA button with shine effect */}
           <div className="pt-6">
             <Link
               to="/products"

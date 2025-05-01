@@ -28,9 +28,7 @@ const ProductCard = ({ product }) => {
         </Link>
       </div>
       
-      {/* Action Buttons - Perfectly Right Centered */}
       <div className="absolute right-4 top-1/2 transform -translate-y-1/2 flex flex-col space-y-3 items-center">
-        {/* Add to Cart Button */}
         <button 
           onClick={(e) => {
             e.stopPropagation();
@@ -42,7 +40,6 @@ const ProductCard = ({ product }) => {
           <ShoppingCartIcon className="h-5 w-5" />
         </button>
         
-        {/* View Product Button */}
         <Link 
           to={`/products/${product.id}`}
           className="p-2 bg-gray-100 rounded-full text-gray-600 hover:bg-gray-200 transition-colors shadow-sm"
