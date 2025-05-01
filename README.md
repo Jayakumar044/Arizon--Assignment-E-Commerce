@@ -8,11 +8,6 @@ A fully responsive e-commerce web application built with React.js, Tailwind CSS,
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Folder Structure](#folder-structure)
-- [Available Scripts](#available-scripts)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -37,7 +32,7 @@ A fully responsive e-commerce web application built with React.js, Tailwind CSS,
 
 ## Demo
 
-[Live Demo](https://jayakumar-arizone-commerce.netlify.app/)
+[Live Demo Link](https://jayakumar-arizone-commerce.netlify.app/)
 
 ## Screenshots
 
